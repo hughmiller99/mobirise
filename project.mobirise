@@ -51,7 +51,8 @@
     "gdpr": false,
     "uniqCompNum": 10,
     "versionPublish": "5.6.11",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
